@@ -66,6 +66,7 @@
       <a href="#"><img alt="dbt" src="https://img.shields.io/badge/dbt-FF5733.svg?logo=dbt&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Airflow" src="https://img.shields.io/badge/Airflow-007BFF.svg?logo=apache-airflow&logoColor=white"></a>
       <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?logo=stack-overflow&logoColor=white"></a>
@@ -82,6 +83,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=evans-nyang&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=evans-nyang&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=evans-nyang&theme=dark)
 
 <br>
 
