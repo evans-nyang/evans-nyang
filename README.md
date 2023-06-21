@@ -23,11 +23,9 @@
 
 * 🌱 Currently learning data modelling and transformation using dbt.
 
-* 💡 Open to collaborating on projects and innovative ideas.
+* 👀 Open to collaborating on projects and innovative ideas 💡
 
-* 👀 Why do programmers prefer dark mode? Because light attracts bugs!
-
-* ⚡ Remember, laughter is the best syntax error handler! Enjoy the humor and keep coding with a smile.
+<!-- * ⚡ -->
 
 <details>
   <summary>🛠️Technology Stack</summary>
