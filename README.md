@@ -21,7 +21,7 @@
 
 * 📖  Pursuing a Major in Applied Mathematics @[Kenyatta University](https://www.ku.ac.ke/)
 
-* 🌱 Currently learning data modelling and transformation using dbt.
+* 🌱 Currently learning data modelling and transformation.
 
 * 👀 Open to collaborating on projects and innovative ideas 💡
 
