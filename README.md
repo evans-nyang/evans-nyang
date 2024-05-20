@@ -1,7 +1,9 @@
 <p align="center">
 <a href="https://github.com/evans-nyang">
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80+Code&pause=1000&color=000000&width=500&lines=Johnevans+Nyawanga;Data+Engineer+%7C+Python+Developer;Data+%7C+Cloud+%7C+AI" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80+Code&pause=1000&color=000000&width=500&lines=Johnevans+Nyawanga;Data+Engineer+%7C+Python+Developer;Data+%7C+Cloud+%7C+AI" alt="Typing SVG" /> -->
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80+Code&pause=1000&color=ffffcc&lines=Johnevans+Nyawanga;Data+Engineer+%7C+Python+Developer;Data+%7C+Cloud+%7C+AI" alt="Typing SVG" />
 </a>
+
 <br/>
 
 <a href="https://www.linkedin.com/in/johnevans-nyawanga/">
@@ -19,7 +21,7 @@
 
 </p>
 
-* 📖  Pursuing a Major in Applied Mathematics @[Kenyatta University](https://www.ku.ac.ke/)
+<!-- * 📖  -->
 
 * 🌱 Currently learning data modelling and transformation.
 
