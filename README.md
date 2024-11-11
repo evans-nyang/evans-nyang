@@ -23,7 +23,7 @@
 
 <!-- * 📖  -->
 
-* 🌱 Currently learning data modelling and transformation.
+* 🌱 Currently learning artificial intelligence, language models, data modelling and transformation.
 
 * 👀 Open to collaborating on projects and innovative ideas 💡
 
@@ -67,9 +67,11 @@
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Airflow" src="https://img.shields.io/badge/Airflow-007BFF.svg?logo=apache-airflow&logoColor=white"></a>
+      <a href="#"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white"></a>
+      <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?logo=powerbi&logoColor=black"></a>
       <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?logo=stack-overflow&logoColor=white"></a>
+      <a href="#"><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991.svg?logo=openai&logoColor=white"></a>
+      <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD700.svg?logo=huggingface&logoColor=white"></a>
       <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?logo=slack&logoColor=white"></a>
   </p>
 
