@@ -27,7 +27,7 @@
 
 * 👀 Open to collaborating on projects and innovative ideas 💡
 
-* ⚡ Check out my latest project here 👉 [healthcare-facilities](https://www.healthcare-facilities.live)
+<!-- * ⚡ Check out my latest project here 👉 [healthcare-facilities](https://www.healthcare-facilities.live) -->
 
 <details>
   <summary>🛠️Technology Stack</summary>
