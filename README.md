@@ -23,7 +23,7 @@
 
 <!-- * 📖  -->
 
-* 🌱 Currently learning data modelling and transformation, artificial intelligence and large language models.
+* 🌱 Currently learning data modelling and transformation, deep learning, artificial intelligence and large language models.
 
 * 👀 Open to collaborating on projects and innovative ideas 💡
 
